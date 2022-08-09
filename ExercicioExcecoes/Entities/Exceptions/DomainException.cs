@@ -10,3 +10,5 @@ namespace ExercicioExcecoes.Entities.Exceptions
         }
     }
 }
+
+
